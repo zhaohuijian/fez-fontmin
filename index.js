@@ -108,7 +108,6 @@ Fontmin.prototype.createStream = function () {
         this.use(Fontmin.otf2ttf());
         this.use(Fontmin.ttf2eot());
         this.use(Fontmin.ttf2woff());
-        this.use(Fontmin.ttf2woff2());
         this.use(Fontmin.ttf2svg());
         this.use(Fontmin.css());
     }
@@ -146,7 +145,6 @@ Fontmin.plugins = [
     'glyph',
     'ttf2eot',
     'ttf2woff',
-    'ttf2woff2',
     'ttf2svg',
     'css',
     'svg2ttf',
