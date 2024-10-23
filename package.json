@@ -25,11 +25,11 @@
     "css",
     "base64"
   ],
-  "author": "furic-zhao",
+  "author": "HJ",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furic-zhao/fez-fontmin"
+    "url": "git+https://github.com/zhaohuijian/fez-fontmin.git"
   },
   "bin": {
     "fontmin": "cli.js"
