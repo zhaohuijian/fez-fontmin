@@ -1,6 +1,6 @@
 {
   "name": "fez-fontmin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "压缩TTF并生成woff2,woff,ttf,eot等格式的网页字体",
   "main": "index.js",
   "keywords": [
@@ -53,7 +53,7 @@
     "replace-ext": "^1.0.0",
     "stream-combiner": "^0.2.2",
     "through2": "^3.0.0",
-    "ttf2woff2": "2.0.3",
+    "ttf2woff2": "3.0.0",
     "vinyl-fs": "^3.0.3"
   },
   "devDependencies": {
